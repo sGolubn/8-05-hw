@@ -43,7 +43,7 @@
 
 ---
 
-### Решение 2
+### Решение 1
 
 *1. Terraform Playbook.*
 main.tf:

@@ -153,6 +153,7 @@ output "external_ip_address_vm-1" {
 
 
 `2. Скриншот статуса балансировщика и целевой группы.`
+
 ![изображение](https://github.com/sGolubn/8-05-hw/blob/main/1.jpg) 
 
 ![изображение](https://github.com/sGolubn/8-05-hw/blob/main/2.jpg) 
